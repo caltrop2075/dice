@@ -1,3 +1,0 @@
-rolling dice
-
-display of various dice combinations
