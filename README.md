@@ -1,5 +1,8 @@
 # dice
-roll the dice &amp; base conversion
+
+rolling dice
+
+display of various dice combinations
 
 base.sh
 --------------------------------------------------------------------------------
